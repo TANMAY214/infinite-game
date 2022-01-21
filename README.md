@@ -1,1 +1,1 @@
-# infinite-game
+# my-own-infinite-gamer
